@@ -1,0 +1,18 @@
+# Generated resume files — contain PII, never commit
+resume/resume.md
+resume/resume.docx
+
+# Job search results — personal data
+theHunt/results.md
+
+# Application tracker — personal data
+tracker/applications.md
+tracker/applications.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node modules (if docx-js is installed locally)
+node_modules/
+package-lock.json

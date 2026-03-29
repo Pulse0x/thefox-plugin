@@ -1,0 +1,9 @@
+{
+  "name": "thefox",
+  "version": "2.0.1",
+  "description": "Claude-powered LGBTQ+ job search suite: resume builder, values-aligned employer search, ATS API queries, and application coaching.",
+  "author": {
+    "name": "Dom S"
+  },
+  "keywords": ["lgbtq", "job-search", "resume", "career", "dei", "hiring", "ats"]
+}
