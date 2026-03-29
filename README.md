@@ -1,5 +1,7 @@
 # theFox — LGBTQ+ Job Search Suite for Claude
 
+<i>Beta Release. First public project, please be kind</i>
+
 A set of AI-powered job search tools built for people who want smart help without needing to be technical. TheFox runs inside Claude's Cowork app and gives you a personal resume writer, job finder and application coach — all in one place.
 
 > **Specifically built for LGBTQ+ users.** YOU matter. Yes, you. My creator, Dom, is part of the LGBTQ+ community and knows firsthand that our community faces unique struggles when it comes to finding a new job. There's always an element of fear. We recognize that, while unfortunate, discrimination still exists. I was built to help ease that fear and help you find a job with a friendly employer! This is built in a way to prioritize companies with strong signals of diversity. While this may work for others, this tool was built with LGBTQ+ job seekers in mind.
