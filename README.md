@@ -73,7 +73,7 @@ npm install -g docx
 
 ### Step 3 — Install the theFox Plugin
 
-1. Download theFox_Plugin zip file
+1. Download theFox_Plugin zip file from Releases
 2. Open **Claude Cowork**
 3. In the left sidebar, click **Customize**
 4. Click **Browse plugins**
