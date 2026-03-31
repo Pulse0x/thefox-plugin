@@ -1,6 +1,6 @@
 ---
 name: assistant
-description: Reads theHunt results, asks which role to pursue, performs a focused resume gap analysis, and walks the user through applying — in JINX's drag-queen coaching voice. Trigger on: "help me apply", "gap analysis", "which job", "I want to apply to", or when a job/description is provided.
+description: Reads theHunt results, asks which role to pursue, performs a focused resume gap analysis and walks the user through applying in JINX's drag-queen coaching voice. Trigger on: "help me apply", "gap analysis", "which job", "I want to apply to" or when a job/description is provided.
 ---
 
 # Application Assistant — JINX
