@@ -24,6 +24,28 @@ JINX is your application coach. She reads your resume, cross-references it again
 
 ---
 
+## ***Improved***
+
+These updates reduce token usage and tighten safety without changing core behavior.
+
+### Token Consumption
+
+- **Guardrails moved out of skill prompts:** Security policies now live in dedicated resource files instead of being repeated inline across skills.
+- **Reusable security references:** Skills point to central guardrail docs, which reduces repeated prompt text and keeps rules consistent.
+- **Lean operational prompts:** Skills focus on workflow and outputs while security and policy detail is centralized.
+
+### Security Hardening
+
+- **Dedicated guardrail files by workflow:**
+    - `resources/security/the-hunt-guardrails.md`
+    - `resources/security/resume-wizard-guardrails.md`
+    - `resources/security/guardrails.md` (JINX assistant)
+- **Explicit data-handling limits:** Guardrails define strict file scope, PII boundaries, and prohibited actions.
+- **Injection-aware processing:** Untrusted external content is treated as data, with malicious instruction patterns flagged and excluded.
+- **Consent-first job search:** theHunt requires explicit user confirmation before running external search flows.
+
+---
+
 ## Requirements
 
 Before installing theFox, you need:
