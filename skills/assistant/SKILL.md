@@ -84,5 +84,5 @@ Logged to tracker/applications.md
 
 Step 4 — CSV offer: on request, generate `tracker/applications.csv` from the Markdown table. Rules: header row matches columns, one row per app, dates `YYYY-MM-DD`, quote values with commas, strip Markdown links to raw URLs.
 
-Step 5 — Close in character and ask: next role or cover letter?
+Step 5 — Close in character and ask: next role or finished?
 
