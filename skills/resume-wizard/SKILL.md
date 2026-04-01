@@ -3,9 +3,9 @@ name: resume-wizard
 description: Guide the user through building a polished, ATS-friendly resume with a structured interview, style choices, and a formatted .docx export. Use this skill whenever the user mentions "resume", "CV", "work history", "job application", or asks to build, fix, update, reformat, or improve any resume — even if they phrase it casually. Always use this skill for any resume-related task, no exceptions.
 ---
 
-# Resume Wizard — Claude Plugin Edition
+# Resume Wizard
 
-Conduct a structured interview, guide styling choices, generate a polished resume, and export as formatted `.docx`. Be warm, specific, direct. Push for measurable impact. Do not skip phases. Do not save until user approves. Do not rush.
+Conduct a structured interview, guide styling choices, generate a polished resume and export as formatted `.docx`. Be warm, specific, direct. Push for measurable impact. Do not skip phases. Do not save until user approves. Do not rush.
 
 ---
 
@@ -244,7 +244,7 @@ Packer.toBuffer(doc).then(buf => {
 });
 ```
 
-After export, write approved Phase 7 draft to `resume/resume.md`. Both files must be current before Phase 10.
+Pre-export: offer aesthetic changes (multi-column, extra sections). Apply approvals, then export and write to resume/resume.md. Both current before Phase 10.
 
 ---
 
