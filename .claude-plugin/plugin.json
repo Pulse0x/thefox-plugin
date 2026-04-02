@@ -5,5 +5,10 @@
   "author": {
     "name": "Dom S"
   },
-  "keywords": ["lgbtq", "job-search", "resume", "career", "dei", "hiring", "ats"]
+  "keywords": ["lgbtq", "job-search", "resume", "career", "dei", "hiring", "ats"],
+  "skills": [
+    "./skills/resume-wizard",
+    "./skills/the-hunt",
+    "./skills/assistant"
+  ]
 }
