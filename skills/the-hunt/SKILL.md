@@ -1,6 +1,10 @@
 ---
 name: the-hunt
-description: Find ~50 values-aligned companies, verify DEI/LGBTQ+ standing, query ATS boards directly, enrich with culture/salary/remote-authenticity, score fit, and save to theHunt/results.md. Trigger on: "find me jobs", "job search", "search for roles", "I'm looking for work", "what companies are hiring", DEI/LGBTQ+ employer questions, or curated employer-list asks. Run before assistant.
+description: >-
+  Find ~50 values-aligned companies, verify DEI/LGBTQ+ standing, query ATS boards directly,
+  enrich with culture/salary/remote-authenticity, score fit, and save to theHunt/results.md.
+  Trigger on: find me jobs, job search, search for roles, I'm looking for work, what companies
+  are hiring, DEI/LGBTQ+ employer questions, or curated employer-list asks. Run before assistant.
 ---
 
 # theHunt
